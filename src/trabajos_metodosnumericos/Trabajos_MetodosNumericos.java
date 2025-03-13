@@ -7,7 +7,7 @@ public class Trabajos_MetodosNumericos {
         //1.) Identificar diagonal
         //2.) Elegir Pivote
         //2.) Aplicar formula: f(n) - pivote
-
+        System.out.println("Hola mundo");
     }
     
 }
