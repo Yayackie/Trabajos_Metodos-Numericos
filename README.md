@@ -15,9 +15,9 @@ Este repositorio ofrece una introducción clara a los conceptos fundamentales, a
 ## Temario
 A continuación, se presenta la tabla de contenidos con los temas principales del repositorio. Cada sección incluye teoría, ejemplos y pseudocódigo para profundizar en los métodos numéricos:
 
-- Introducción a los Métodos Numéricos
-- Métodos de Solución de Ecuaciones
-- Métodos de Solución de Sistemas de Ecuaciones 
-- Diferenciación e Integración Numérica
-- Interpolación y Ajuste de Funciones
-- Solución de Ecuaciones Diferenciales
+- T1 - Introducción a los Métodos Numéricos
+- T2 - Métodos de Solución de Ecuaciones
+- T3 - Métodos de Solución de Sistemas de Ecuaciones 
+- T4 - Diferenciación e Integración Numérica
+- T5 - Interpolación y Ajuste de Funciones
+- T6 - Solución de Ecuaciones Diferenciales
