@@ -1,19 +1,22 @@
-## Tema 2: Métodos de Solución de Ecuaciones
+## Tema 1: Introducción a los Métodos Numéricos
+Bienvenidos al primer tema del repositorio de **Métodos Numéricos**, dedicado a los fundamentos esenciales para comprender cómo las aproximaciones numéricas resuelven problemas matemáticos. Este tema se centra en el estudio de los **errores inherentes a los cálculos numéricos**, un aspecto crítico para garantizar la precisión y fiabilidad de los resultados.
 
-El segundo tema del repositorio de Métodos Numéricos aborda una de las áreas más importantes del análisis computacional: la solución de ecuaciones no lineales. Estas ecuaciones surgen con frecuencia en diversos campos de la ciencia, la ingeniería y la economía, donde rara vez es posible encontrar soluciones exactas. En estos casos, los métodos numéricos ofrecen estrategias prácticas y eficientes para obtener soluciones aproximadas con un nivel de precisión aceptable.
+Aquí exploraremos los diferentes tipos de errores que surgen al aplicar métodos numéricos, proporcionando una base sólida para los temas posteriores.
 
 ### Introducción al Tema
 
-Este tema se enfoca en el estudio de algoritmos iterativos utilizados para encontrar raíces de ecuaciones no lineales. Cada uno de estos métodos tiene características particulares que los hacen más adecuados en distintos contextos, dependiendo de la naturaleza de la función y de las condiciones iniciales.
+Los métodos numéricos permiten obtener **soluciones aproximadas** a problemas matemáticos complejos, pero estas aproximaciones introducen errores que deben ser entendidos y controlados.
 
-Los métodos que se estudian en esta sección incluyen:
+En este tema, analizaremos el **Error Numérico Total**, que engloba las distintas fuentes de imprecisión en los cálculos. Estudiaremos conceptos clave como:
 
-- **Método de Bisección**
-- **Método de la Regla Falsa**
-- **Método de Punto Fijo**
-- **Método de Newton-Raphson**
-- **Método de la Secante**
+- **Error de Redondeo**: causado por la representación finita de números en computadoras.
+- **Error por Cancelación Numérica**: ocurre al restar números muy cercanos entre sí.
+- **Errores de Formulación**: derivados de modelos matemáticos simplificados que no representan fielmente la realidad.
+- **Errores por Equivocación**
+- **Errores por Truncamiento**
+- **Incertidumbre en los Datos**
 
-Cada método se presenta con su fundamento teórico, ejemplos  y su correspondiente implementación en código Java. La comprensión de estas técnicas permite enfrentar con mayor confianza una amplia variedad de problemas en los que intervienen ecuaciones no lineales.
+Comprender estos conceptos es **crucial para evaluar la calidad de las soluciones numéricas** y diseñar algoritmos robustos.
 
-Este tema proporciona las bases necesarias para aplicar métodos de solución de ecuaciones en contextos reales, promoviendo el desarrollo de habilidades analíticas y computacionales fundamentales en el estudio de los métodos numéricos.
+A través de explicaciones teóricas, ejemplos prácticos y código en Java, este tema te ayudará a **identificar, analizar y minimizar los errores** en tus cálculos.
+
