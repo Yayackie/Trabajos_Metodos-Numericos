@@ -1,4 +1,4 @@
-# Tema 2: Tipos de Errores Numéricos - Pseudocódigo en Java
+# Tema 1: Tipos de Errores Numéricos - Pseudocódigo en Java
 
 ## Introducción
 
