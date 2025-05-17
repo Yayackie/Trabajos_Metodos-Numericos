@@ -44,5 +44,12 @@
 
 ## Salida Esperada
 - Iteración 0: x = 1.500, f(x) = -0.125
-- Iteración 1: x = 1.521, f(x) = 0.001
-- Raíz encontrada: 1.521
+- Iteración 1: x = 1.750, f(x) = 1.859
+- Iteración 2: x = 1.625, f(x) = 0.701
+- Iteración 3: x = 1.563, f(x) = 0.256
+- Iteración 4: x = 1.531, f(x) = 0.059
+- Iteración 5: x = 1.516, f(x) = -0.034
+- Iteración 6: x = 1.523, f(x) = 0.012
+- Iteración 7: x = 1.520, f(x) = -0.011
+- Iteración 8: x = 1.522, f(x) = 0.000
+- Raíz encontrada: 1.522
