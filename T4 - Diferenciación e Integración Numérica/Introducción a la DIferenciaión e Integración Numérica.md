@@ -1,4 +1,4 @@
-# Tema 2: Diferenciación e Integración Numérica - Introducción General
+# Tema 4: Diferenciación e Integración Numérica - Introducción General
 # Introducción
 
 La diferenciación e integración numérica son dos ramas fundamentales
