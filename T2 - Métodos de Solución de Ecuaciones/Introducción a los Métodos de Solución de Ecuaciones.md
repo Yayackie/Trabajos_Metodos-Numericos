@@ -32,8 +32,8 @@ fundamento y comportamiento es indispensable para todo profesional que
 trabaje con modelos matemáticos.
 
 Algunos de los métodos son:
-- Método de Bisección
-- Método de Newton-Rhapson
-- Método de Punto Fijo
-- Método de la Regla Falsa
-- Método de la Secante
+- [Método de Bisección](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/M%C3%A9todo%20de%20Bisecci%C3%B3n/Introducci%C3%B3n%20al%20M%C3%A9todo%20de%20Bisecci%C3%B3n.md)
+- [Método de Newton-Rhapson](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/M%C3%A9todo%20de%20Newton-Raphson/Introducci%C3%B3n%20al%20M%C3%A9todo%20de%20Newton-Rhapson.md)
+- [Método de Punto Fijo](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/M%C3%A9todo%20de%20Punto%20Fijo/Introducci%C3%B3n%20al%20M%C3%A9todo%20de%20Punto%20Fijo.md)
+- [Método de la Regla Falsa](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/M%C3%A9todo%20de%20la%20Regla%20Falsa/Introducci%C3%B3n%20al%20M%C3%A9todo%20de%20la%20Regla%20Falsa.md)
+- [Método de la Secante](https://github.com/Yayackie/Trabajos_Metodos-Numericos/tree/main/T2%20-%20M%C3%A9todos%20de%20Soluci%C3%B3n%20de%20Ecuaciones/M%C3%A9todo%20de%20la%20Secante)
