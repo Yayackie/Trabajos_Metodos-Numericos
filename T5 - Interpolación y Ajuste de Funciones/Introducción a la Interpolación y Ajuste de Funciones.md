@@ -9,9 +9,9 @@ Por otro lado, el ajuste de funciones (también llamado regresión) no busca nec
 Ambas técnicas permiten extrapolar o predecir valores en puntos donde no se tienen mediciones, facilitar cálculos posteriores y analizar el comportamiento de fenómenos complejos. El conocimiento y aplicación adecuada de estos métodos son esenciales para realizar modelos numéricos precisos, tomar decisiones informadas basadas en datos, y construir soluciones computacionales robustas en una amplia gama de disciplinas científicas y tecnológicas.
 
 Existen muchos métodos y tipos de interpolación. Algunos de esos son:
-- Interpolación Lineal
-- Interpolación Polinómica
-- Método de Regresión
-- Método de Correlación
-- Método de Mínimos Cuadrados
+- [Interpolación Lineal](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/Interpolaci%C3%B3n%20Lineal/Introducci%C3%B3n%20a%20la%20Interpolaci%C3%B3n%20Lineal.md)
+- [Interpolación Polinómica](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/Interpolaci%C3%B3n%20Polin%C3%B3mica/Introducci%C3%B3n%20a%20la%20Interpolaci%C3%B3n%20Polin%C3%B3mica.md)
+- [Método de Regresión](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/M%C3%A9todo%20de%20Regresi%C3%B3n/Introducci%C3%B3n%20al%20M%C3%A9todo%20de%20Regresi%C3%B3n.md)
+- [Método de Correlación](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/M%C3%A9todo%20de%20Correlaci%C3%B3n/Introducci%C3%B3n%20al%20M%C3%A9todo%20de%20Correlaci%C3%B3n.md)
+- [Método de Mínimos Cuadrados](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T5%20-%20Interpolaci%C3%B3n%20y%20Ajuste%20de%20Funciones/M%C3%A9todo%20de%20M%C3%ADnimos%20Cuadrados/Introducci%C3%B3n%20al%20M%C3%A9todo%20de%20M%C3%ADnimos%20Cuadrados.md)
 
