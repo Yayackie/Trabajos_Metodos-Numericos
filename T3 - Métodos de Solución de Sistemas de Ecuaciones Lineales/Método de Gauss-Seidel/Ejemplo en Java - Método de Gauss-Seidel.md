@@ -45,21 +45,26 @@ Iteración 0:
 x0 = 0.333
 x1 = -0.667
 x2 = -0.583
+
 Iteración 1:
 x0 = 0.583
 x1 = 0.083
 x2 = -0.458
+
 Iteración 2:
 x0 = 0.458
 x1 = 0.121
 x2 = -0.430
+
 Iteración 3:
 x0 = 0.430
 x1 = 0.140
 x2 = -0.429
+
 Iteración 4:
 x0 = 0.429
 x1 = 0.143
 x2 = -0.429
+
 Solución encontrada
 ```
