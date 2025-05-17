@@ -8,5 +8,5 @@ La principal complejidad al trabajar con sistemas de EDO radica en la necesidad 
 
 Algunos métodos que se pueden aplicar a Ecuacinoes Diferenciales Ordinarias son:
 - [Euler](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/Sistemas%20de%20Ecuaciones%20Diferenciales%20Ordinarias/M%C3%A9todo%20de%20Euler/Introducci%C3%B3n%20al%20M%C3%A9todo%20de%20Euler.md)
-- [Runge-Kutta](https://github.com/Yayackie/Trabajos_Metodos-Numericos/tree/main/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/Sistemas%20de%20Ecuaciones%20Diferenciales%20Ordinarias/M%C3%A9todo%20de%20Runge-Kutta)
+- [Runge-Kutta](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/Sistemas%20de%20Ecuaciones%20Diferenciales%20Ordinarias/M%C3%A9todo%20de%20Runge-Kutta/Introducci%C3%B3n%20al%20M%C3%A9todo%20de%20Runge-Kutta.md)
 - [Taylor](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T6%20-%20Soluci%C3%B3n%20de%20Ecuaciones%20Diferenciales/Sistemas%20de%20Ecuaciones%20Diferenciales%20Ordinarias/M%C3%A9todo%20de%20Taylor/Introducci%C3%B3n%20al%20M%C3%A9todo%20de%20Taylor.md)
