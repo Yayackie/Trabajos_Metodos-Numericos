@@ -11,10 +11,10 @@ Los métodos numéricos permiten obtener soluciones aproximadas a problemas mate
 Comprender estos conceptos es crucial para evaluar la calidad de las soluciones numéricas y diseñar algoritmos robustos. A través de explicaciones teóricas, ejemplos prácticos y código en Java, este tema te ayudará a identificar, analizar y minimizar los errores en tus cálculos. 
 
 Dentro del tema, tenemos los sigueintes subtemas:
-- Error Numérico Total
-- Error de Redondeo
-- Error por Cancelación Numérica
-- Errores de Formulación
-- Errores por Equivocación
-- Errores por Truncamiento
-- Incertidumbre en los Datos
+- [Error Numérico Total](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Error%20Num%C3%A9rico%20Total/Introducci%C3%B3n%20al%20Error%20Num%C3%A9rico%20Total.md)
+- [Error de Redondeo](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Error%20de%20Redondeo/Introducci%C3%B3n%20al%20Error%20de%20Redondeo.md) 
+- [Error por Cancelación Numérica](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Error%20por%20Cancelaci%C3%B3n%20Num%C3%A9rica/Introducci%C3%B3n%20al%20Error%20por%20Cancelaci%C3%B3n%20Num%C3%A9rica.md)
+- [Errores de Formulación](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Errores%20de%20Formulaci%C3%B3n/Introducci%C3%B3n%20a%20los%20Errores%20de%20Formulaci%C3%B3n.md)
+- [Errores por Equivocación](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Errores%20por%20Equivocaci%C3%B3n/Introducci%C3%B3n%20a%20los%20Errores%20por%20Eequivocaci%C3%B3n.md)
+- [Errores por Truncamiento](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Errores%20por%20Truncamiento/Introducci%C3%B3n%20a%20Errores%20por%20Truncamiento.md)
+- [Incertidumbre en los Datos](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Incertidumbre%20en%20los%20Datos/Introducci%C3%B3n%20a%20Incertidumbre%20en%20los%20Datos.md)
