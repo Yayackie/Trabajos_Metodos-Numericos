@@ -29,7 +29,7 @@ es esencial para quienes trabajan con datos, simulaciones o modelos
 matemáticos en diversas disciplinas.
 
 A continuación, conoce los diferentes métodos:
-- Método de Simpson 1/3
-- Método de Simpson 3/8
-- Método de la Cuadratura Gaussiana
-- Método del Trapecio
+- [Método de Simpson 1/3](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/M%C3%A9todo%20de%20Simpson%20%E2%85%93/Introducci%C3%B3n%20al%20M%C3%A9todo%20de%20Simpson%201-3.md)
+- [Método de Simpson 3/8](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/M%C3%A9todo%20de%20Simpson%20%E2%85%9C/Introducci%C3%B3n%20al%20M%C3%A9todo%20de%20Simpson%203-8.md)
+- [Método de la Cuadratura Gaussiana](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/M%C3%A9todo%20de%20la%20Cuadratura%20Gaussiana/Introducci%C3%B3n%20al%20M%C3%A9todo%20de%20%20la%20Cuadratura%20Gaussiana.md)
+- [Método del Trapecio](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T4%20-%20Diferenciaci%C3%B3n%20e%20Integraci%C3%B3n%20Num%C3%A9rica/M%C3%A9todo%20del%20Trapecio/Introducci%C3%B3n%20al%20M%C3%A9todo%20del%20Trapecio.md)
