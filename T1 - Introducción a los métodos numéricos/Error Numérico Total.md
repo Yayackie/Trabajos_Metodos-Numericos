@@ -1,5 +1,5 @@
-# Tema 1: Tipos de Errores Numéricos
-## Error Numérico Total
+## Tema 1: Tipos de Errores Numéricos
+# Error Numérico Total
 
 ### ¿Qué es?
 
