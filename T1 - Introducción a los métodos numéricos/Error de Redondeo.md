@@ -42,7 +42,7 @@ Fin
 
 ---
 
-### Código base en Java (traducción directa del pseudocódigo)
+### Código base en Java
 
 ```java
 public class CodigoBaseRedondeo {
