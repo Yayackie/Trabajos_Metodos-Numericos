@@ -1,3 +1,5 @@
+### [<- Regresar al Temario](https://github.com/Yayackie/Trabajos_Metodos-Numericos/tree/main)
+
 # Tema 6: Introducción a la Solución de Ecuaciones Diferenciales
 ## Introducción
 La solución de ecuaciones diferenciales ocupa un lugar central en la modelación matemática de fenómenos naturales, físicos, químicos, económicos y de ingeniería. Estas ecuaciones permiten describir cómo cambian las cantidades en función de una o más variables independientes, comúnmente el tiempo o el espacio. Sin embargo, muchas ecuaciones diferenciales no poseen soluciones analíticas exactas, lo que hace necesario el uso de métodos numéricos que proporcionen aproximaciones confiables y eficientes.
