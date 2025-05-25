@@ -26,7 +26,7 @@ A pesar de ser menos eficiente que otros métodos iterativos en muchos casos, el
 
 ### Pseudocódigo
 
-```text
+```java
 Inicio
   Definir n como entero
   Definir A como matriz de reales [n][n]
@@ -177,7 +177,7 @@ public class Jacobi {
 
 ### Caso de prueba:
 
-```text
+```java
 Iteración 0:
 x0 = 0.333
 x1 = -1.000
