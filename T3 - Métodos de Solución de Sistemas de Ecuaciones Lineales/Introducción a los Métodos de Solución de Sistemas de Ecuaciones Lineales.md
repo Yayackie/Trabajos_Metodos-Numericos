@@ -1,3 +1,5 @@
+### [<- Regresar al Temario](https://github.com/Yayackie/Trabajos_Metodos-Numericos/tree/main)
+
 # Tema 3: Métodos de Solución de Sistemas de Ecuaciones Lineales
 ## Introducción
 En el campo de los métodos numéricos, la solución de sistemas de ecuaciones lineales representa una de las áreas fundamentales y más aplicadas dentro de la ingeniería, las ciencias exactas y la computación. Estos sistemas permiten modelar una gran variedad de problemas reales como circuitos eléctricos, estructuras mecánicas, equilibrio químico, flujos de fluidos, análisis económico, entre otros. Debido a que muchos de estos sistemas contienen un número elevado de ecuaciones y variables, su resolución manual se vuelve impráctica, lo que hace indispensable el uso de técnicas numéricas eficientes y confiables.
