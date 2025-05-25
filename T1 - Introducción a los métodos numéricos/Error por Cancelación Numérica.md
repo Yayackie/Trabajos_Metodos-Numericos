@@ -1,7 +1,7 @@
 
-# Tema 1: Error por Cancelación Numérica
+## Tema 1: Error por Cancelación Numérica
 
-## ¿Qué es?
+# ¿Qué es?
 
 La cancelación numérica ocurre cuando se restan dos números que son muy cercanos entre sí, lo que provoca una pérdida significativa de cifras significativas. Esta pérdida de precisión puede resultar en errores notables en cálculos posteriores, especialmente cuando los resultados intermedios se utilizan como base para otras operaciones.
 
