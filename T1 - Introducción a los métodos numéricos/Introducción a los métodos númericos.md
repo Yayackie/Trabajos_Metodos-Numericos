@@ -1,10 +1,10 @@
-## Tema 1: Introducción a los Métodos Numéricos
+# Tema 1: Introducción a los Métodos Numéricos
 
-### ¿De qué trata? 
+## ¿De qué trata? 
 
 Bienvenidos al primer tema del repositorio de Métodos Numéricos, dedicado a los fundamentos esenciales para comprender cómo las aproximaciones numéricas resuelven problemas matemáticos. Este tema se centra en el estudio de los errores inherentes a los cálculos numéricos, un aspecto crítico para garantizar la precisión y fiabilidad de los resultados. Aquí exploraremos los diferentes tipos de errores que surgen al aplicar métodos numéricos, proporcionando una base sólida para los temas posteriores.
 
-### Introducción al tema
+## Introducción al tema
 
 Los métodos numéricos permiten obtener soluciones aproximadas a problemas matemáticos complejos, pero estas aproximaciones introducen errores que deben ser entendidos y controlados. En este tema, analizaremos el Error Numérico Total, que engloba las distintas fuentes de imprecisión en los cálculos. Estudiaremos conceptos clave como el Error de Redondeo, causado por la representación finita de números en computadoras; el Error por Cancelación Numérica, que ocurre al restar números muy cercanos; los Errores de Formulación, derivados de modelos matemáticos simplificados; los Errores por Equivocación, relacionados con fallos humanos o de implementación; los Errores por Truncamiento, originados al aproximar procesos infinitos; y la Incertidumbre en los Datos, que afecta la calidad de los resultados debido a datos imprecisos.
 
