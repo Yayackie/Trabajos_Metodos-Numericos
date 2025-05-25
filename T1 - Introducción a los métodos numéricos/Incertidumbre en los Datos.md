@@ -1,6 +1,6 @@
-# Tema 1: Incertidumbre en los Datos
+## Tema 1: Incertidumbre en los Datos
 
-## ¿Qué es?
+# ¿Qué es?
 
 En muchos problemas reales, los datos de entrada no se conocen con exactitud absoluta. Esta incertidumbre puede deberse a limitaciones en la medición, ruido experimental, redondeo de valores o estimaciones subjetivas. Como consecuencia, incluso si se utiliza un método numérico exacto, los resultados pueden estar afectados por el error presente en los datos iniciales.
 
