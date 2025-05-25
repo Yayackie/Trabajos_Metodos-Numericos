@@ -23,22 +23,23 @@ Comprender el error numérico total es fundamental para evaluar la confiabilidad
 
 # Pseudocódigo
 ## Error Numérico Total
-'''java
-    Inicio
-      Definir real como real
-      Definir aproximado como real
-      Definir errorTotal como real
-      real = sqrt(2)
-      aproximado = 1.414
-      errorTotal = abs(real - aproximado)
-      Imprimir "Valor real: ", real
-      Imprimir "Valor aproximado: ", aproximado
-      Imprimir "Error numérico total: ", errorTotal
-    Fin
-'''
+```java
+        Inicio
+          Definir real como real
+          Definir aproximado como real
+          Definir errorTotal como real
+          real = sqrt(2)
+          aproximado = 1.414
+          errorTotal = abs(real - aproximado)
+          Imprimir "Valor real: ", real
+          Imprimir "Valor aproximado: ", aproximado
+          Imprimir "Error numérico total: ", errorTotal
+        Fin
+```
 # Código base
+```java
 
-    ## public class ErrorNumerico {
+    public class ErrorNumerico {
     public static void main(String[] args) {
         // Definir variables
         double real = Math.sqrt(2);
@@ -51,7 +52,7 @@ Comprender el error numérico total es fundamental para evaluar la confiabilidad
         System.out.println("Error numérico total: " + errorTotal);
     }
 }
-'''
+```
 
 
 ## Ejemplo en Java con salida esperada
