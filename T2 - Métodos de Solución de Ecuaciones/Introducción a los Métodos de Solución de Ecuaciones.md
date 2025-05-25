@@ -1,3 +1,5 @@
+### [<- Regresar al Temario](https://github.com/Yayackie/Trabajos_Metodos-Numericos/tree/main)
+
 # Tema 2: Métodos de Solución de Ecuaciones
 ## Introducción
 La solución de ecuaciones es uno de los pilares fundamentales del análisis
