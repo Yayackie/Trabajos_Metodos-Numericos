@@ -78,3 +78,5 @@ Comprender el error numérico total es fundamental para evaluar la confiabilidad
     Valor aproximado: 1.414  
     Error numérico total: 0.000  
 ```
+
+### [T1 - Regresar a Introducción a los Métodos Numéricos](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20n%C3%BAmericos.md)
