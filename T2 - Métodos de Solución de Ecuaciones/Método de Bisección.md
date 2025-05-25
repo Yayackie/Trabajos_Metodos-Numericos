@@ -188,3 +188,5 @@ Iteración 7: x = 1.520, f(x) = -0.011
 Iteración 8: x = 1.522, f(x) = 0.000
 Raíz encontrada: 1.522
 ```
+
+### [<- Regresar a T2 - Métodos de Solución de Ecuaciones ](https://github.com/Yayackie/Trabajos_Metodos-Numericos/blob/main/T1%20-%20Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20num%C3%A9ricos/Introducci%C3%B3n%20a%20los%20m%C3%A9todos%20n%C3%BAmericos.md)
