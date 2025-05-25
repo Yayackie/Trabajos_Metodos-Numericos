@@ -1,3 +1,5 @@
+### [<- Regresar al Temario](https://github.com/Yayackie/Trabajos_Metodos-Numericos/tree/main)
+
 # Tema 5: Interpolación y Ajuste de Funciones
 ## Introducción General
 En el campo de los métodos numéricos, la interpolación y el ajuste de funciones son herramientas fundamentales que permiten representar conjuntos de datos discretos mediante funciones matemáticas continuas. Estas técnicas son ampliamente utilizadas en ingeniería, física, economía y otras ciencias aplicadas, especialmente cuando se necesita estimar el comportamiento de una variable a partir de un número limitado de observaciones experimentales o simuladas.
