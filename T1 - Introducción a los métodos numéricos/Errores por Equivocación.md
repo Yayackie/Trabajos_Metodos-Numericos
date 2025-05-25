@@ -1,6 +1,6 @@
-# Tema 1: Errores por Equivocación
+## Tema 1: Errores por Equivocación
 
-## ¿Qué es?
+# ¿Qué es?
 
 Los errores por equivocación, también conocidos como errores humanos, ocurren cuando se comete una falla durante la formulación, programación o ejecución de un método numérico. Estos pueden incluir errores al ingresar datos, escribir una fórmula incorrecta, seleccionar mal el método para resolver un problema o malinterpretar los resultados obtenidos.
 
