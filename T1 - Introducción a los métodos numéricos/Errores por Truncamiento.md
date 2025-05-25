@@ -1,6 +1,6 @@
-# Tema 1: Error de Truncamiento
+## Tema 1: Error de Truncamiento
 
-## ¿Qué es?
+# ¿Qué es?
 
 El error de truncamiento se produce cuando se interrumpe o se simplifica una operación matemática infinita o continua para poder ser calculada de forma finita. Por ejemplo, al utilizar una serie de Taylor para aproximar funciones, es necesario cortar la serie después de un número determinado de términos, lo que introduce un error al omitir los términos restantes.
 
