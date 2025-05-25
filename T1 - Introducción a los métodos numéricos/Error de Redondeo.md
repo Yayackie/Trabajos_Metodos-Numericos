@@ -1,6 +1,6 @@
-# Tema 1: Tipos de Errores Numéricos
+## Tema 1: Tipos de Errores Numéricos
 
-## Error de Redondeo
+# Error de Redondeo
 
 ### ¿Qué es?
 
