@@ -1,5 +1,5 @@
 
-# Tema 2: Error por Cancelación Numérica
+# Tema 1: Error por Cancelación Numérica
 
 ## ¿Qué es?
 
